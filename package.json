@@ -1,0 +1,37 @@
+{
+  "name": "wwc-gulp",
+  "version": "1.0.0",
+  "description": "Basic Gulp setup, with the most useful plugins for rapid front end development",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatasuir9/wwc-gulp.git"
+  },
+  "keywords": [
+    "wwckl",
+    "event",
+    "talk",
+    "stage"
+  ],
+  "author": "Jecelyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatasuir9/wwc-gulp/issues"
+  },
+  "homepage": "https://github.com/fatasuir9/wwc-gulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-connect": "^2.2.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-image": "^1.0.5",
+    "gulp-jade": "^1.1.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.4.0"
+  }
+}
