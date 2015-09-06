@@ -1,0 +1,8 @@
+# Ignore the completed Gulpfile
+gulpfile.complete.js
+
+# Ignore connect directory
+connect/*
+
+# Ignore gulp node modules directory
+node_modules/
