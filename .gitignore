@@ -1,6 +1,3 @@
-# Ignore the completed Gulpfile
-gulpfile.complete.js
-
 # Ignore connect directory
 connect/*
 
