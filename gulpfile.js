@@ -1,11 +1,11 @@
 var gulp = require('gulp');
 
-//Convert Jade to Html
-gulp.task('jade',function(){
-});
-
 //Launch server
 gulp.task('connect', function(){
+});
+
+//Convert Jade to Html
+gulp.task('jade',function(){
 });
 
 //Convert Sass to Css and Minify it
